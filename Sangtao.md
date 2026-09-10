@@ -1,6 +1,6 @@
 Phần 1 - Giải thích Vai trò UML & Lập Bảng định hướng Sơ đồ UML
 
-1. Nêu 2 lý do tại sao sử dụng sơ đồ UML giúp Dev, BA và Tester không bị hiểu nhầm kịch bản hết hang
+1. Nêu 2 lý do tại sao sử dụng sơ đồ UML giúp Dev, BA và Tester không bị hiểu nhầm kịch bản hết hàng
 - UML mô tả luồng xử lý một cách trực quan
 - UML tạo ra tài liệu chung giữa các bên:
 + BA dùng UML để mô tả nghiệp vụ. 
